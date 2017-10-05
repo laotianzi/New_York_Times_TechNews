@@ -12,10 +12,11 @@ All the data are from Leading documentation from [New York Times API](https://de
 
 ## **Goal**
 
-Utilizing NLP,clustering to learn and analyze the language processing.
-- Making topic modeling for technology news from 1945-2017 and extract information to form Word Cloud each year.
-- By unsuperived learning to cluster the news, finding the interesting classes from the news.
-- Extracting the named entity of Google, getting up to second layer of related companies to Google. 
+Utilizing NLP,clustering to learn and analyze the language processing. In the four notebooks, 
+- Scraped data and architected, hosted, and integrated MongoDB databases.
+- Made topic modeling for technology news from 1945-2017 and Word Cloud each year.
+- By unsuperived learning to cluster the news, got the interesting classes from the news.
+- Extracted the named entity of Google, getting up to second layer of related companies to Google. 
 
 ## **Approach**
 
